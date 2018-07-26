@@ -1,0 +1,5 @@
+com\danydiaz\callcenter\dispatcher\DefaultDispatcherSpec.class
+com\danydiaz\callcenter\model\EmployeeSpec.class
+com\danydiaz\callcenter\factory\EmployeeFactorySpec.class
+com\danydiaz\callcenter\model\CallSpec.class
+com\danydiaz\callcenter\model\NetworkSpec.class
