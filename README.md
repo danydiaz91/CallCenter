@@ -1,4 +1,4 @@
-# circleci
+# CircleCI 2.0
 [![CircleCI](https://circleci.com/gh/danydiaz91/CallCenter.svg?style=svg)](https://circleci.com/gh/danydiaz91/CallCenter)
 
 # CallCenter
